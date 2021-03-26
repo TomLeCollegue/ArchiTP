@@ -1,0 +1,13 @@
+C:\Users\tomku\Desktop\Cours\Architecture\ArchiTP\ArchiTP\bin\Debug\netcoreapp3.1\ArchiTP.exe
+C:\Users\tomku\Desktop\Cours\Architecture\ArchiTP\ArchiTP\bin\Debug\netcoreapp3.1\ArchiTP.deps.json
+C:\Users\tomku\Desktop\Cours\Architecture\ArchiTP\ArchiTP\bin\Debug\netcoreapp3.1\ArchiTP.runtimeconfig.json
+C:\Users\tomku\Desktop\Cours\Architecture\ArchiTP\ArchiTP\bin\Debug\netcoreapp3.1\ArchiTP.runtimeconfig.dev.json
+C:\Users\tomku\Desktop\Cours\Architecture\ArchiTP\ArchiTP\bin\Debug\netcoreapp3.1\ArchiTP.dll
+C:\Users\tomku\Desktop\Cours\Architecture\ArchiTP\ArchiTP\bin\Debug\netcoreapp3.1\ArchiTP.pdb
+C:\Users\tomku\Desktop\Cours\Architecture\ArchiTP\ArchiTP\obj\Debug\netcoreapp3.1\ArchiTP.csprojAssemblyReference.cache
+C:\Users\tomku\Desktop\Cours\Architecture\ArchiTP\ArchiTP\obj\Debug\netcoreapp3.1\ArchiTP.AssemblyInfoInputs.cache
+C:\Users\tomku\Desktop\Cours\Architecture\ArchiTP\ArchiTP\obj\Debug\netcoreapp3.1\ArchiTP.AssemblyInfo.cs
+C:\Users\tomku\Desktop\Cours\Architecture\ArchiTP\ArchiTP\obj\Debug\netcoreapp3.1\ArchiTP.csproj.CoreCompileInputs.cache
+C:\Users\tomku\Desktop\Cours\Architecture\ArchiTP\ArchiTP\obj\Debug\netcoreapp3.1\ArchiTP.dll
+C:\Users\tomku\Desktop\Cours\Architecture\ArchiTP\ArchiTP\obj\Debug\netcoreapp3.1\ArchiTP.pdb
+C:\Users\tomku\Desktop\Cours\Architecture\ArchiTP\ArchiTP\obj\Debug\netcoreapp3.1\ArchiTP.genruntimeconfig.cache
